@@ -1,8 +1,7 @@
 from random import randint
 from brain_games.game_engine import run_game
 
-RULE = "Answer 'yes' if given number is prime. Otherwise answer 'no'."
-
+RULE = """Answer "yes" if given number is prime. Otherwise answer "no"."""
 
 def is_prime(n):
     if n < 2:
