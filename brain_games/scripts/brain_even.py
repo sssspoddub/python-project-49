@@ -1,7 +1,7 @@
-#!/Users/spoddub/Documents/python-project-49/.venv/bin/python3
-# -*- coding: utf-8 -*-
+#!/usr/bin/env python3
 import sys
 from brain_games.games.brain_even import main
+
 if __name__ == "__main__":
     if sys.argv[0].endswith("-script.pyw"):
         sys.argv[0] = sys.argv[0][:-11]
