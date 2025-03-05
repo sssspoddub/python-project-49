@@ -11,4 +11,3 @@ build/
 .idea/
 *.swp
 .python-version
-main.py
