@@ -12,7 +12,7 @@ Brain Games is a set of five console-based games designed in the style of popula
 - **Package Manager:** `uv`
 - **Dependencies:**
   - `prompt>=0.4.1`
-  - *(Dev Dependency)* `ruff>=0.7`
+  - `ruff>=0.7`
 
 ### Installation
 1. Ensure **Python 3.13+** is installed. Check with:
