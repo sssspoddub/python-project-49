@@ -34,4 +34,4 @@ Brain Games is a set of five console-based games designed in the style of popula
 
 ### Installation and Gameplay Demonstration
 
-[![asciinema](https://asciinema.org/a/yXD3SfRh4D0rmuqDrD4kBoRLa.svg)](https://asciinema.org/a/yXD3SfRh4D0rmuqDrD4kBoRLa)
+<a href="https://asciinema.org/a/yKD3Sr8h4D0rmuqbrD4kBoRLa" target="_blank"><img src="https://asciinema.org/a/yKD3Sr8h4D0rmuqbrD4kBoRLa.svg" /></a>
