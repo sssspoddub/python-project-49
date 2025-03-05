@@ -10,3 +10,5 @@ build/
 .vscode/
 .idea/
 *.swp
+.python-version
+main.py
