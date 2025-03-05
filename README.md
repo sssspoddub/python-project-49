@@ -32,6 +32,6 @@ Brain Games is a set of five console-based games designed in the style of popula
 - **Greatest Common Divisor** – Find the greatest common divisor of two numbers.
 - **Prime Check** – Determine if a number is prime.
 
-<a href="https://asciinema.org/a/kuUbtvEaECGkeZQb2rlxwkZqu" target="_blank"><img src="https://asciinema.org/a/kuUbtvEaECGkeZQb2rlxwkZqu.svg" /></a>
-<a href="https://asciinema.org/a/r78C3gu69xWh2otdv5ijDrdbW" target="_blank"><img src="https://asciinema.org/a/r78C3gu69xWh2otdv5ijDrdbW.svg" /></a>
-<a href="https://asciinema.org/a/7e95dudkooZPt9Irc9uNuAuTW" target="_blank"><img src="https://asciinema.org/a/7e95dudkooZPt9Irc9uNuAuTW.svg" /></a>
+### Installation and Gameplay Demonstration
+
+[![asciinema](https://asciinema.org/a/yXD3SfRh4D0rmuqDrD4kBoRLa.svg)](https://asciinema.org/a/yXD3SfRh4D0rmuqDrD4kBoRLa)
